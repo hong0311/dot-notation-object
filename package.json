@@ -1,0 +1,19 @@
+{
+  "name": "dot-notation-object",
+  "version": "0.1.0",
+  "description": "Simple function to create a Javascript object of dot-notation keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hong0311/dot-notation-object.git"
+  },
+  "author": "Don Yau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hong0311/dot-notation-object/issues"
+  },
+  "homepage": "https://github.com/hong0311/dot-notation-object#readme"
+}
